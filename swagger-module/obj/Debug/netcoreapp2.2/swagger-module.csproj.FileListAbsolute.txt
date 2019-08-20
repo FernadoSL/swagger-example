@@ -1,0 +1,14 @@
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\bin\Debug\netcoreapp2.2\swagger-module.deps.json
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\bin\Debug\netcoreapp2.2\swagger-module.runtimeconfig.json
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\bin\Debug\netcoreapp2.2\swagger-module.runtimeconfig.dev.json
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\bin\Debug\netcoreapp2.2\swagger-module.dll
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\bin\Debug\netcoreapp2.2\swagger-module.pdb
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.csprojAssemblyReference.cache
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.RazorAssemblyInfo.cache
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.RazorAssemblyInfo.cs
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.AssemblyInfoInputs.cache
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.AssemblyInfo.cs
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.RazorTargetAssemblyInfo.cache
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.dll
+C:\Users\fernando\Desktop\ms-learn\swagger-module\swagger-module\obj\Debug\netcoreapp2.2\swagger-module.pdb
