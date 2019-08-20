@@ -22,7 +22,7 @@ namespace swagger_module
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "AGRUsers API", Version = "v-1.0.0-alpha" });
+                c.SwaggerDoc("v1", new Info { Title = "Swagger Example", Version = "v-1.0.0-alpha" });
             });
         }
 
